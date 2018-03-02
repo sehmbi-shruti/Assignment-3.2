@@ -1,0 +1,19 @@
+header, h1, article, footer
+{
+	border-bottom: 3px solid;
+}
+
+body
+{
+	border-bottom: 1px solid;
+}
+
+#top
+{
+	align-content: top;
+}
+
+#bottom
+{
+	align-content: bottom;
+}
